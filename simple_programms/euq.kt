@@ -9,5 +9,5 @@ fun  euq(a: Int, b: Int): Int {
     return n1
 }
 fun main() {
-    print(euq(99,12))
+    print(euq(99,1545))
 }
