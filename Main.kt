@@ -1,4 +1,4 @@
-fun printResult(a: Int,b:Int){
+fun printRes(a: Int,b:Int){
     print(a+b)
 }
 fun pp(w:Int){
@@ -10,6 +10,6 @@ fun printPersonalInfo(name: String, lastName: String) {
 }
 fun main() {
     println("Hello, World!")
-    printResult(4,8)
+    printRes(4,8)
     pp(5)    
 }
